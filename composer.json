@@ -1,0 +1,14 @@
+{
+    "name": "kiryanov/adapter",
+    "autoload": {
+        "psr-4": {
+            "Kiryanov\\Adapter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Danila Kiryanov"
+        }
+    ],
+    "require": {}
+}
